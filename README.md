@@ -2,13 +2,13 @@
 
 > A speed reading application built around RSVP (Rapid Serial Visual Presentation) and ORP (Optimal Recognition Point) — designed to improve reading speed and focus, particularly for users with ADHD.
 
-[![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/hjw808/speed-reader/actions/workflows/ci.yml/badge.svg)](https://github.com/hjw808/speed-reader/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Tests](https://img.shields.io/badge/tests-234%20passing-brightgreen)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue)
 
-**[Live Demo](https://YOUR_DEMO_URL_HERE)** &nbsp;|&nbsp; [Web App](web/) &nbsp;|&nbsp; [Python Desktop App](speed_reader.py)
+**[Web App](web/)** &nbsp;|&nbsp; **[Python Desktop App](speed_reader.py)**
 
 ---
 
