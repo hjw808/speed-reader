@@ -1,0 +1,13 @@
+The quick brown fox jumps over the lazy dog. This is a sample text to test the RSVP speed reader application.
+
+Speed reading with RSVP works by displaying one word at a time in the same position. This eliminates the need for your eyes to scan across the page, which is particularly helpful for people with ADHD who often experience their eyes jumping around while reading.
+
+The red letter you see is called the Optimal Recognition Point, or ORP. It's positioned slightly left of center in each word, which is where your eye naturally focuses when reading. By highlighting this letter, your brain can process the word more quickly and your eyes know exactly where to look.
+
+Research suggests that traditional reading involves about 80% eye movement and only 20% actual reading. By eliminating eye movement entirely, RSVP allows you to potentially read much faster while maintaining comprehension.
+
+Start slow at around 200-300 words per minute, then gradually increase your speed as you become comfortable. Most people can eventually reach 500 words per minute or higher with practice. The key is consistency and finding the speed that works best for your brain.
+
+Remember to take breaks! Speed reading is mentally intensive. Your brain is working hard to process information quickly. Short reading sessions with breaks will be more effective than trying to power through long documents all at once.
+
+Happy reading!
